@@ -18,3 +18,4 @@ sphinxcontrib-openapi
 sphinxcontrib-seqdiag
 mistune < 2.0.0
 natsort
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
