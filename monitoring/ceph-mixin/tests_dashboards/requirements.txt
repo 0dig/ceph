@@ -10,3 +10,4 @@ types-termcolor==1.1.2
 dataclasses==0.6
 types-dataclasses==0.6.1
 prettytable==2.4.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
